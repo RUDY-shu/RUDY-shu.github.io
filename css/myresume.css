@@ -1,10 +1,10 @@
 body{
      font-family: 'Noto Sans TC', sans-serif; 
-}
+     color:#ffffff;
+ }
 h1, h2, h3, h4, h5, h6{
 	font-family: 'Noto Sans TC', sans-serif;
 }
 subheading mb-5{
 	font-family: 'Noto Sans TC', sans-serif;
 }
-body{"color:Tomato;"}
