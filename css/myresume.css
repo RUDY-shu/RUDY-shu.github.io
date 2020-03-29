@@ -1,6 +1,6 @@
 body{
      font-family: 'Noto Sans TC', sans-serif; 
-     color: #ff0001;
+     color: #ff4544;
      background-color: #1E0003;
  }
 h1, h2, h3, h4, h5, h6{
@@ -9,15 +9,15 @@ h1, h2, h3, h4, h5, h6{
 }
 subheading{
 	font-family: 'Noto Sans TC', sans-serif;
-	color: #ff0001;
+	color: #ff4544;
 }
 a{
 	font-family: 'Noto Sans TC', sans-serif;
-    color: #850303; 
+    color: #ff0303; 
 }
 div{
 	font-family: 'Noto Sans TC', sans-serif;
-	color: #850303; 
+	color: #ff0303; 
 }
 .bg-primary {
     background-color: #e82719 !important;
