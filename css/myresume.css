@@ -17,5 +17,9 @@ a{
 }
 div{
 	font-family: 'Noto Sans TC', sans-serif;
-	color: #850303;
+	color: #850303; 
+}
+.bg-primary {
+    background-color: #e82719;
+background-image: url("https://www.transparenttextures.com/patterns/black-thread.png");!important;
 }
