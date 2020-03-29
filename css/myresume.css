@@ -26,3 +26,7 @@ div{
 .text-primary {
     color: #b9352c!important;
 }
+.nav-item{
+	background-color: #000000;
+	border: #ffffff;
+}
