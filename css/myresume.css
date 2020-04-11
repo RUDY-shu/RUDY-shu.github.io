@@ -37,3 +37,7 @@ div{
 .dev-icons .list-inline-item i:hover {
   color: #A31435;
 }
+icon{ 
+  height: 3.5rem;
+  width: 3.5rem;
+}
