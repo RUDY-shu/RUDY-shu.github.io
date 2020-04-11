@@ -34,3 +34,6 @@ div{
 .social-icons a:hover {
   background-color: #A31435;
 }
+.dev-icons .list-inline-item i:hover {
+  color: #A31435;
+}
