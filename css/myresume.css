@@ -37,3 +37,7 @@ div{
 .dev-icons .list-inline-item i:hover {
   color: #520000;
 }
+a:hover, a:focus, a:active {
+  color: #A31435;
+}
+
