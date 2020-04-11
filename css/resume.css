@@ -70,18 +70,10 @@ p.lead {
 .social-icons a:last-child {
   margin-right: 0;
 }
-
-.social-icons a:hover {
-  background-color: #A31435;
-}
-
 .dev-icons {
   font-size: 3rem;
 }
 
-.dev-icons .list-inline-item i:hover {
-  color: #A31435;
-}
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
