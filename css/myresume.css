@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h6{
 	 font-family: 'Noto Sans TC', sans-serif;
 	 color: #007bff;
 }
-subheading{
+.subheading{
 	font-family: 'Noto Sans TC', sans-serif;
 	color: #ff4544;
 }
@@ -36,8 +36,4 @@ div{
 }
 .dev-icons .list-inline-item i:hover {
   color: #A31435;
-}
-icon{ 
-  height: 3.5rem;
-  width: 3.5rem;
 }
