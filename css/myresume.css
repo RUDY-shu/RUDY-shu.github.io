@@ -40,4 +40,9 @@ div{
 a:hover, a:focus, a:active {
   color: #A31435;
 }
-
+td{
+	color:#ff4544;
+}
+th{
+	color:#007bff;
+}
