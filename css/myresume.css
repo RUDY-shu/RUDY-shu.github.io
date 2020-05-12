@@ -54,6 +54,7 @@ div#container{
 div.child_div{
 	font-size:1.5rem;
 	background-color:#1E0003;
+	margin:0.5rem;
 }
 .child_div p{
 	display: block;
