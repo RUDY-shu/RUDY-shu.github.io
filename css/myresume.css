@@ -59,6 +59,7 @@ div.child_div{
 .child_div p{
 	display: block;
 	margin:0.5rem;
+	padding:0 0 0 0.5rem;
 	border:3px solid #ffffff;
 }
 div#flex_container{
