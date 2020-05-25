@@ -2,6 +2,7 @@ body{
      font-family: 'Noto Sans TC', sans-serif; 
      color: #ff4544;
      background-color: #1E0003;
+     background-image: url("https://www.transparenttextures.com/patterns/black-scales.png");
  }
 h1, h2, h3, h4, h5, h6{
 	 font-family: 'Noto Sans TC', sans-serif;
@@ -50,6 +51,7 @@ th{
 div#container{
 	background-color:#BD0000;
 	padding:0.5rem;
+	background-image: url("https://www.transparenttextures.com/patterns/black-scales.png");
 }
 div.child_div{
 	font-size:1.5rem;
